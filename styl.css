@@ -2,9 +2,10 @@ body{
   background-color: rgba(108, 72, 129, 0.589);
 }
 h3 {
-  color: rgb(178, 106, 245);
+  color: rgb(0, 0, 0);
 }
 
 img {
-  max-width: 300px;
-} 
+  max-width: 500px;
+  height: 400px;
+}
