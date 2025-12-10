@@ -4,3 +4,8 @@ body{
 h3 {
   color: rgb(178, 106, 245);
 }
+
+img {
+  width: 300px;
+  height: 200px;
+} 
