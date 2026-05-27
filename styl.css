@@ -4,7 +4,9 @@ body{
 h3 {
   color: #0a0a0a
 }
-
+div.text {
+  text-align: center;
+}
 img {
   max-width: 40%;
   height: 400px;
